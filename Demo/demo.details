@@ -7,4 +7,6 @@
  resources:
    - https://cdn.rawgit.com/kedomingo/jqueryfuzzy/master/jquery.fuzzy.js
  normalize_css: no
+ deployment:
+   - onLoad
  ...
