@@ -1,4 +1,4 @@
-jQuery Fuzzy searh plugin.
+jQuery Fuzzy search plugin.
 
 Try the demo at http://jsfiddle.net/gh/get/jquery/2.2.0/kedomingo/jqueryfuzzy/tree/master/Demo/
 
