@@ -5,6 +5,6 @@
  authors:
    - Kyle Domingo
  resources:
-   - https://rawgit.com/kedomingo/jqueryfuzzy/master/jquery.fuzzy.js
+   - https://cdn.rawgit.com/kedomingo/jqueryfuzzy/master/jquery.fuzzy.js
  normalize_css: no
  ...
