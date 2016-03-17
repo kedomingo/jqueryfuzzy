@@ -1,0 +1,9 @@
+
+---
+ name: Demo for Jquery Fuzzy
+ description: Demo for Jquery Fuzzy
+ authors:
+   - Kyle Domingo
+ resources:
+ normalize_css: no
+ ...

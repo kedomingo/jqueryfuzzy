@@ -1,0 +1,12 @@
+
+body {
+    font: normal 11pt sans-serif;
+}
+div.row {
+    margin: 5px;
+    padding: 5px;
+    border: solid 1px #ddd;
+}
+.hltitle .hl {
+    background: #fffa90;
+}
