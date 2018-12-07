@@ -5,7 +5,7 @@
  authors:
    - Kyle Domingo
  resources:
-   - https://cdn.rawgit.com/kedomingo/jqueryfuzzy/master/jquery.fuzzy.js
+   - https://cdn.jsdelivr.net/gh/kedomingo/jqueryfuzzy/jquery.fuzzy.js
  normalize_css: no
  deployment:
    - onLoad
