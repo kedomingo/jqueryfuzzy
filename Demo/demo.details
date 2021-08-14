@@ -7,4 +7,4 @@
  resources:
    - https://cdn.jsdelivr.net/gh/kedomingo/jqueryfuzzy/jquery.fuzzy.js
  normalize_css: no
- ...
+ load_type: d
