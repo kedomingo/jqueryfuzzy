@@ -7,6 +7,5 @@
  resources:
    - https://cdn.jsdelivr.net/gh/kedomingo/jqueryfuzzy/jquery.fuzzy.js
  normalize_css: no
- deployment:
-   - onLoad
+load_type: d
  ...
